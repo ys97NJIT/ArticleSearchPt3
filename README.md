@@ -38,8 +38,12 @@ The following **stretch** functionality is implemented:
   - Ensures app content maintains its state across orientation changes.
   - ![GIF showing orientation change handling]
 
+## Video Walkthrough
 
-[](WalkthroughLab6.gif)
+Here's a walkthrough of implemented user stories:
+
+<img src='WalkthroughLab6.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 ## Notes
 
