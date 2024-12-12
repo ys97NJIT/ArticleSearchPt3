@@ -19,9 +19,7 @@ import com.codepath.articlesearch.R.layout
 import okhttp3.Headers
 import org.json.JSONObject
 
-// --------------------------------//
-// CHANGE THIS TO BE YOUR API KEY  //
-// --------------------------------//
+
 private const val API_KEY = BuildConfig.API_KEY
 /*
  * The class for the only fragment in the app, which contains the progress bar,
