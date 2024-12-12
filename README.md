@@ -16,15 +16,15 @@ The following **required** functionality is completed:
 
 - [x] (3 pts) **Add and implement Bottom Navigation to your application**
   - Allows navigation between books and articles using Bottom Navigation.
-  - ![GIF showing Bottom Navigation functionality](http://i.imgur.com/link/to/your/gif/file.gif) <!-- Replace this link with your actual image/GIF link -->
+  - ![GIF showing Bottom Navigation functionality]
 
 - [x] (4 pts) **Dynamically use fragments within Activities**
   - Displays books and articles in their respective fragments, dynamically managed within the main activity.
-  - ![GIF showing fragment management](http://i.imgur.com/link/to/your/gif/file.gif) <!-- Replace this link with your actual image/GIF link -->
+  - ![GIF showing fragment management]
 
 - [x] (3 pts) **Customize the toolbar and icons**
   - Provides a unique toolbar experience for each section with relevant icons.
-  - ![GIF showing toolbar customization](http://i.imgur.com/link/to/your/gif/file.gif) <!-- Replace this link with your actual image/GIF link -->
+  - ![GIF showing toolbar customization]
 
 ### Stretch Features
 
@@ -32,11 +32,14 @@ The following **stretch** functionality is implemented:
 
 - [x] (+2 pts) **Customize a Home screen using the [Most Popular NYTimes Articles API](https://developer.nytimes.com/docs/most-popular-product/1/overview)**
   - Displays a list of popular articles on a custom home screen.
-  - ![GIF showing Home screen with popular articles](WalkthroughLab6.gif) <!-- Replace this link with your actual image/GIF link -->
+  - ![GIF showing Home screen with popular articles] <!-- Replace this link with your actual image/GIF link -->
 
 - [x] (2 pts) **Respond to device orientation changes without resetting the application**
   - Ensures app content maintains its state across orientation changes.
-  - ![GIF showing orientation change handling](http://i.imgur.com/link/to/your/gif/file.gif) <!-- Replace this link with your actual image/GIF link -->
+  - ![GIF showing orientation change handling]
+
+
+[](WalkthroughLab6.gif)
 
 ## Notes
 
