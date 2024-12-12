@@ -2,11 +2,11 @@
 
 Course Link: [CodePath Android Course](https://courses.codepath.org/courses/and102/unit/6)
 
-Submitted by: **Your Name Here** <!-- Replace 'Your Name Here' with your actual name -->
+Submitted by: **Yonghyeon Shin** <!-- Replace 'Your Name Here' with your actual name -->
 
 **NYT ArticleSearch Pt 3** is an app that combines the Best Setting Books app and the Article Search app, allowing users to navigate between books and articles seamlessly.
 
-Time spent: **X** hours spent in total <!-- Replace 'X' with the number of hours you spent on this project -->
+Time spent: **4** hours spent in total <!-- Replace 'X' with the number of hours you spent on this project -->
 
 ## Application Features
 
