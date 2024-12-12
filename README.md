@@ -30,11 +30,11 @@ The following **required** functionality is completed:
 
 The following **stretch** functionality is implemented:
 
-- [x] (+2 pts) **Customize a Home screen using the [Most Popular NYTimes Articles API](https://developer.nytimes.com/docs/most-popular-product/1/overview)**
+- [ ] (+2 pts) **Customize a Home screen using the [Most Popular NYTimes Articles API](https://developer.nytimes.com/docs/most-popular-product/1/overview)**
   - Displays a list of popular articles on a custom home screen.
   - ![GIF showing Home screen with popular articles] <!-- Replace this link with your actual image/GIF link -->
 
-- [x] (2 pts) **Respond to device orientation changes without resetting the application**
+- [ ] (2 pts) **Respond to device orientation changes without resetting the application**
   - Ensures app content maintains its state across orientation changes.
   - ![GIF showing orientation change handling]
 
